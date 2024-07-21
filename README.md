@@ -32,7 +32,7 @@ This project is an online money transaction system built using the MERN stack (M
 
     ```bash
 https://github.com/abhishekujale/MoneyTransaction.git
-cd online-money-transaction
+cd moneyTransaction
     ```
 
 2. **Install Backend Dependencies**
