@@ -31,8 +31,8 @@ This project is an online money transaction system built using the MERN stack (M
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/online-money-transaction.git
-    cd online-money-transaction
+https://github.com/abhishekujale/MoneyTransaction.git
+cd online-money-transaction
     ```
 
 2. **Install Backend Dependencies**
