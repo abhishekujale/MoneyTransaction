@@ -51,7 +51,7 @@ cd moneyTransaction
     ```
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_jwt_secret
-    PORT=5000
+    PORT=3000
     ```
 
 4. **Start the Backend Server**
@@ -75,7 +75,7 @@ cd moneyTransaction
     npm start
     ```
 
-    The React application should now be running on [http://localhost:3000](http://localhost:3000).
+    The React application should now be running on [http://localhost:5173](http://localhost:5173).
 
 ### Usage
 
